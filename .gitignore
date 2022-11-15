@@ -1,4 +1,9 @@
+boot
+head
+system
+Image
 # Prerequisites
+*.txt
 *.d
 
 # Object files
